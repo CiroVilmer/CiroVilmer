@@ -87,7 +87,7 @@ I ship production web apps end-to-end — from Postgres schemas and auth middlew
 
 <div align="center">
 
-**Open to freelance + collaboration.** &nbsp;·&nbsp; Based in Buenos Aires, working worldwide.
+**Open to freelance and collaboration** &nbsp;·&nbsp; Based in Buenos Aires, working worldwide.
 
 _Let's build something._
 
